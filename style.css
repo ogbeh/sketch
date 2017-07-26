@@ -1,0 +1,19 @@
+#container {
+    margin:auto;
+    padding: 0;
+    height:700px;
+    width:700px;
+    position: relative;
+    top: 30px;
+    outline:15px solid mediumaquamarine;
+    font-size: 0;
+    border: none;
+}
+
+.squares {
+    margin:0;
+    padding:0;
+    border:none;
+    outline:1px solid darkorange;
+    display:inline-block;
+}
